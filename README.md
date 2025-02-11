@@ -7,7 +7,7 @@ This tool lets you upload a PNG file and it will convert it to a cursor file, th
 ![Cursor Changer Preview](https://github.com/happel3567/Cursor-Changer-Tool/blob/main/Images/cursor%20customizer%20working%20image.png)
 
 How it looks applied:
-![Cursor Changer Preview2](https://github.com/happel3567/Cursor-Changer-Tool/blob/main/Images/cursor%20customizer%20working2%20image.png)
+![Cursor Changer Preview2](https://github.com/happel3567/Cursor-Changer-Tool/blob/main/Images/cursor%20tool%20working2.jpg)
 
 ### Warning
 Because the tool makes and names a file on your computer it will be flagged by windows defender as malicious but you can look through the code to see that it does nothing but make the file named "cursor.cur"
