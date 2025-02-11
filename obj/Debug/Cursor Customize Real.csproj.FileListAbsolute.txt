@@ -1,0 +1,22 @@
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\obj\Debug\Cursor Customize Real.csproj.AssemblyReference.cache
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\obj\Debug\Cursor Customize Real.csproj.SuggestedBindingRedirects.cache
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\obj\Debug\MainWindow.g.cs
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\obj\Debug\App.g.cs
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\obj\Debug\MainWindow.baml
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\obj\Debug\Cursor Customize Real.csproj.GenerateResource.cache
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\obj\Debug\Cursor Customize Real.csproj.CoreCompileInputs.cache
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\bin\Debug\Newtonsoft.Json.dll
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\bin\Debug\System.Drawing.Common.dll
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\bin\Debug\Newtonsoft.Json.xml
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\bin\Debug\System.Drawing.Common.pdb
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\bin\Debug\System.Drawing.Common.xml
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\obj\Debug\Cursor Customize Real.csproj.CopyComplete
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\bin\Debug\Cursor Customize.exe.config
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\bin\Debug\Cursor Customize.exe
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\bin\Debug\Cursor Customize.pdb
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\obj\Debug\Cursor Customize_MarkupCompile.cache
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\obj\Debug\Cursor Customize_MarkupCompile.lref
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\obj\Debug\Cursor Customize.g.resources
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\obj\Debug\Cursor_Customize.Properties.Resources.resources
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\obj\Debug\Cursor Customize.exe
+C:\Users\chunguslover55\source\repos\Cursor Customize Real\obj\Debug\Cursor Customize.pdb
