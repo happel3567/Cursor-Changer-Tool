@@ -9,5 +9,5 @@ This tool lets you upload a PNG file and it will convert it to a cursor file, th
 ### Warning
 Because the tool makes and names a file on your computer it will be flagged by windows defender as malicious but you can look through the code to see that it does nothing but make the file named "cursor.cur"
 
-## Technical Details
+### Technical Details
 The tool works by accepting a png file. It then scales down the image by lowering the amount of bytes taken to store it so that it could match a .cur file. Then it changes meta information about the file so that it matches a .cur file, all while preserving the initial colors and transparency of the png file. Once, upload image is pressed, a cur file that looks like your png will be placed in your C drive.
