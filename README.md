@@ -2,7 +2,7 @@
 
 Simply download the exe file named "Cursor Customizer" to use the tool. 
 
-This tool lets you upload a PNG file and it will convert it to a cursor file, this cursor file will be automatically named "cursor.cur" and placed in your C drive. Simply press "Use This Image" which will open the Windows Mouse Properties application where you can set the image as your new cursor
+This tool lets you upload a PNG file and it will convert it to a cursor file, this cursor file will be automatically named "cursor.cur" and placed in your C drive. Simply press "Use This Image" which will open the Windows Mouse Properties application where you can set the image as your new cursor. To find the image, press browse and it should be at the bottom.
 
 ![Cursor Changer Preview](https://github.com/happel3567/Cursor-Changer-Tool/blob/main/Images/cursor%20customizer%20working%20image.png)
 
